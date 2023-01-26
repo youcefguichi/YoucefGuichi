@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youcef !</h1>
-<h3 align="center">I enjoy Data, infrastructure and System design.</h3>
+<h6 align="center">Enjoying Gitopsing at Gimlet.io! We help people deploy to kubernetes.</h6>
 
 <p align="left">
 </p>
